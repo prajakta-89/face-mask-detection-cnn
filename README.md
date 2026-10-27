@@ -24,6 +24,13 @@ Monitoring whether people are wearing face masks correctly can require time and 
 
 The objective of this project is to develop an automated image classification system that can identify three face-mask conditions using deep learning. The system aims to demonstrate how computer vision can recognize visual patterns in images and generate predictions through a user-friendly application.
 
+
+## 🎥 Project Demo
+
+Watch the complete project demonstration on YouTube:
+
+[▶️ Watch Project Demo](https://youtu.be/zPzJjkHX-YM)
+
 ## Project Objectives
 
 - Develop a CNN model for three-class face-mask classification.
@@ -278,12 +285,6 @@ Through this project, I gained practical experience in:
 - Building an interactive machine learning application with Streamlit.
 - Saving and reusing trained models.
 - Documenting a machine learning project using GitHub.
-
-## 🎥 Project Demo
-
-Watch the complete project demonstration on YouTube:
-
-[▶️ Watch Project Demo](https://youtu.be/zPzJjkHX-YM)
 
 ## Future Improvements
 
