@@ -279,11 +279,11 @@ Through this project, I gained practical experience in:
 - Saving and reusing trained models.
 - Documenting a machine learning project using GitHub.
 
-  ## 🎥 Project Demo
+## 🎥 Project Demo
 
 Watch the complete project demonstration on YouTube:
 
-[▶️ Watch Project Demo](https://youtu.be/zPzJjkHX-YM?si=MBnr2-1KH-z4uOov)
+[▶️ Watch Project Demo](https://youtu.be/zPzJjkHX-YM)
 
 ## Future Improvements
 
