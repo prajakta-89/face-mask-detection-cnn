@@ -108,7 +108,7 @@ The trained model is integrated into a Streamlit application that allows users t
 - See the confidence score for the predicted class.
 - Compare probability scores across all three categories.
 
-## 📊 Model Performance
+## Model Performance
 
 The previously trained model achieved **94.25% test accuracy** on a held-out test dataset of 313 images.
 
